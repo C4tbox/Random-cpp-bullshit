@@ -1,0 +1,26 @@
+$@0\in<'/in%"0a\0*"2even>.*"2odd>~?why did i do this?#
+
+' * if
+. * else
+, * elif
+! not
+& and
+" type 
++ add
+- subtract
+= set var
+| or
+< input
+> output
+++ multiply
+-- divide
+\ equal
+% modulo
+? comment
+/ var
+{ * for
+} * while
+~ end
+@ add var
+$ program start
+# program end
